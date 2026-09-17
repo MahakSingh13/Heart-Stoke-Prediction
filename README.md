@@ -37,8 +37,7 @@ The main objective of this project is to demonstrate how Machine Learning can be
 ---------------------------------------------------------------------------------
 
 🤖 Machine Learning Workflow
-
-
+```text
 Dataset
    ↓
 Data Collection
@@ -60,7 +59,7 @@ Save Trained Model
 Streamlit Web Application
    ↓
 Stroke Prediction
-
+```
 
 --------------------------------------------------------------------------------------
 
